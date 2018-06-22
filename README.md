@@ -2,10 +2,13 @@
 Simplifies Boolean equations and converts it to CNF form if possible.
 
 Accepted Symbols:
-/\ and
 
-\/ or
+**and** /\ 
 
-~ not
+**or** \\/ 
 
-1 , 0 , ( )
+**not** ~
+
+**constants** 1 , 0 
+
+**organization symbol**  ( )
